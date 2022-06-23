@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning NLP and pretraining.
 - 📫 How to reach me: 
-  - Email：247645010@qq.com 
+  - Email：247645010 AT qq.com 
   - Wechat：zxqwechat
 
 
